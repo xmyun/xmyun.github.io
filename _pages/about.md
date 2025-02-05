@@ -34,6 +34,17 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Ubicomp/IMWUT 2025</div><img src='images/MobHAR.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MobHAR: Source-free Knowledge Transfer for Human Activity Recognition on Mobile Devices](https://www.ubicomp.org/ubicomp-iswc-2025/)
+
+**Meng Xue**, Yinan Zhu, Wentao Xie, Zhixian Wang, Yanjiao Chen, Kui Jiang, and Qian Zhang
+- [**Code**](https://github.com/xmyun/Phar) 
+- In this work, we present a novel source-free domain adaptation framework for HAR that effectively handles substantial domain discrepancies across different datasets. Our approach introduces two key innovations: (1) a Discriminative Information Gramian (DIG) method that quantifies the relationship between target-domain samples and the source domain without requiring access to source data, and (2) an unsupervised domain generalization technique that ensures consistent feature extraction across augmented data samples, enhancing the model’s effectiveness in the target domain. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ubicomp 2024</div><img src='images/SDE-img.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
