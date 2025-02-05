@@ -34,7 +34,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Ubicomp/IMWUT 2025</div><img src='images/MobHAR.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Ubicomp/IMWUT 2025</div><img src='images/MobHAR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MobHAR: Source-free Knowledge Transfer for Human Activity Recognition on Mobile Devices](https://www.ubicomp.org/ubicomp-iswc-2025/)
