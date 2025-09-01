@@ -28,7 +28,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 
 
 # 🔥 News 
-- *2025.08*: &nbsp;🎉🎉 Two papers are accepted by ACM Mobicom 2025! 
+- *2025.08*: &nbsp;🎉🎉 ACM MobiCom 2025 has accepted two of our papers! 
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by ACM Ubicomp/IMWUT 2025! 
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TDSC 2024! 
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by ACM Ubicomp 2024! 
