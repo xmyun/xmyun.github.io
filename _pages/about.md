@@ -28,6 +28,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 
 
 # 🔥 News 
+- *2025.08*: &nbsp;🎉🎉 Two papers are accepted by ACM Mobicom 2025! 
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by ACM Ubicomp/IMWUT 2025! 
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TDSC 2024! 
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by ACM Ubicomp 2024! 
@@ -123,6 +124,7 @@ Yanjiao Chen, **Meng Xue**, Jian Zhang, Qianyun Guan, Zhiyuan Wang, Qian Zhang, 
 
 # 💬 Services
 - Reviewer of IMWUT/Ubicomp.
+- Reviewer of ACM Transactions on Computing for Healthcare.
 - Reviewer of IEEE Transactions on Information Forensics and Security.
 - Reviewer of IEEE Transactions on Dependable and Secure.
 - Reviewer of IEEE network.
