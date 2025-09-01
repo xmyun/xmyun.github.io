@@ -28,6 +28,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 
 
 # 🔥 News 
+- *2025.09*: &nbsp;🎉🎉 Starting January 2026, I will be joining the School of Computer Science and Technology at Shandong University as a Tenure-Track Professor.
 - *2025.08*: &nbsp;🎉🎉 ACM MobiCom 2025 has accepted two of our papers! 
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by ACM Ubicomp/IMWUT 2025! 
 - *2024.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TDSC 2024! 
