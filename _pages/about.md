@@ -126,7 +126,7 @@ Yanjiao Chen, **Meng Xue**, Jian Zhang, Qianyun Guan, Zhiyuan Wang, Qian Zhang, 
 - *2017.09 - 2022.06*, Wuhan University. 
 
 # 💬 Services
-- PC Member for ACM WWW. 
+- Program Committee Member for ACM WWW. 
 - Reviewer of IMWUT/Ubicomp.
 - Reviewer of ACM Transactions on Computing for Healthcare.
 - Reviewer of IEEE Transactions on Information Forensics and Security.
