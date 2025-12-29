@@ -117,6 +117,7 @@ Yanjiao Chen, **Meng Xue**, Jian Zhang, Qianyun Guan, Zhiyuan Wang, Qian Zhang, 
 
 
 # 🎖 Honors and Awards
+- *2025.12* HKUST Research Travel Grant, HKUST. 
 - *2024.09* HKUST Research Travel Grant, HKUST. 
 - *2022.10* Academic Innovation Scholarship, WuHan University. 
 
