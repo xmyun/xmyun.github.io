@@ -132,6 +132,9 @@ Yanjiao Chen, **Meng Xue**, Jian Zhang, Qianyun Guan, Zhiyuan Wang, Qian Zhang, 
 - Reviewer of ACM Transactions on Computing for Healthcare.
 - Reviewer of IEEE Transactions on Information Forensics and Security.
 - Reviewer of IEEE Transactions on Dependable and Secure.
+- Reviewer of Information and Software Technology, IST.
+- Reviewer of Neural Networks.
+- Reviewer of Journal of Information Security and Applications. 
 - Reviewer of IEEE network.
 - Teaching Assistant of Operating Systems, at Zhejiang University.
 - Teaching Assistant of Computer Networking, at Wuhan University, 2019.09 - 2020.01
