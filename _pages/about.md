@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<!-- I am currently a Postdoctoral Researcher with Hong Kong University of Science and Technology. -->
+<!-- We have multiple openings for PhD and Master's students! -->
 
 
 <span class='anchor' id='about-me'></span>
@@ -28,6 +28,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 
 
 # 🔥 News 
+- *2026.01*: &nbsp; Made it to Qingdao! Officially starting at SDU! 
 - *2025.11*: &nbsp; Invited to serve on the TPC for ACM WWW 2026. 
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TDSC 2025! 
 - *2025.09*: &nbsp;🎉🎉 Starting January 2026, I will be joining the School of Computer Science and Technology at Shandong University as a Tenure-Track Professor.
