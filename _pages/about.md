@@ -40,6 +40,17 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by ACM Ubicomp 2024! 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">TDSC 2026</div><img src='images/Megatron.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Megatron: Evasive Clean-Label Backdoor Attacks against Vision Transformer]([https://www.ubicomp.org/ubicomp-iswc-2025/](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11154976&casa_token=1bFQJa-SR6wAAAAA:l2_oObjJ3FV3yjAqaYQxetVQpZTB-j0Xd_eZZsAl22D_oiEpF-41BcOKbc_WMrn-vE-WSNPiW04&tag=1))
+
+Xueluan Gong, Bowei Tian, **Meng Xue^**(Corresponding), Shuaike Li, Yanjiao Chen, Qian Wang
+- In this work, we propose MEGATRON, an evasive clean-label backdoor attack against vision transformers, where the attacker injects the backdoor without manipulating the data-labeling process.
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Ubicomp/IMWUT 2025</div><img src='images/MobHAR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
