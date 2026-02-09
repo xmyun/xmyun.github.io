@@ -43,14 +43,33 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">TDSC 2026</div><img src='images/Megatron.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Megatron: Evasive Clean-Label Backdoor Attacks against Vision Transformer]([https://www.ubicomp.org/ubicomp-iswc-2025/](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11154976&casa_token=1bFQJa-SR6wAAAAA:l2_oObjJ3FV3yjAqaYQxetVQpZTB-j0Xd_eZZsAl22D_oiEpF-41BcOKbc_WMrn-vE-WSNPiW04&tag=1))
+[Megatron: Evasive Clean-Label Backdoor Attacks against Vision Transformer](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11154976&casa_token=1bFQJa-SR6wAAAAA:l2_oObjJ3FV3yjAqaYQxetVQpZTB-j0Xd_eZZsAl22D_oiEpF-41BcOKbc_WMrn-vE-WSNPiW04&tag=1)
 
 Xueluan Gong, Bowei Tian, **Meng Xue^**(Corresponding), Shuaike Li, Yanjiao Chen, Qian Wang
 - In this work, we propose MEGATRON, an evasive clean-label backdoor attack against vision transformers, where the attacker injects the backdoor without manipulating the data-labeling process.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">MobiCom 2025</div><img src='images/Blinic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Home-based Dry Eye Assessment via Blink Kinematics Using mmWave and Clinical Knowledge Distillation](https://dl.acm.org/doi/abs/10.1145/3680207.3765268)
+
+**Meng Xue**, Wentao Xie, Zuohuizi Yi, Zhilong Zhang, Shumao Wu, Yinan Zhu, Qian Zhang, Changzheng Chen
+- In this work, we present Blinic, a contactless system leveraging commercial millimeter-wave (mmWave) radar to predict precise TBUT values and assess DED severity grades at home. .
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">MobiCom 2025</div><img src='images/VLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DD-LIVM: Pioneering Cross-Domain Photovoltaic Defect Detection Using Large Infrared-Visible Model
+](https://dl.acm.org/doi/abs/10.1145/3680207.3765266)
+
+Yinan Zhu, **Meng Xue**, Haiyan Hu, Cong Zhang, Xiaoyi Fan, Qian Zhang
+- In this work, we present the first large infrared-visible model DD-LIVM to enable cross-domain defect detection.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">Ubicomp/IMWUT 2025</div><img src='images/MobHAR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
