@@ -50,7 +50,7 @@ Xueluan Gong, Bowei Tian, **Meng Xue^**(Corresponding), Shuaike Li, Yanjiao Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">MobiCom 2025</div><img src='Blinic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">MobiCom 2025</div><img src='images/Blinic.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Home-based Dry Eye Assessment via Blink Kinematics Using mmWave and Clinical Knowledge Distillation](https://dl.acm.org/doi/abs/10.1145/3680207.3765268)
@@ -60,7 +60,7 @@ Xueluan Gong, Bowei Tian, **Meng Xue^**(Corresponding), Shuaike Li, Yanjiao Chen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">MobiCom 2025</div><img src='VLM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">MobiCom 2025</div><img src='images/VLM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DD-LIVM: Pioneering Cross-Domain Photovoltaic Defect Detection Using Large Infrared-Visible Model
