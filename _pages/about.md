@@ -56,7 +56,7 @@ Xueluan Gong, Bowei Tian, **Meng Xue^**(Corresponding), Shuaike Li, Yanjiao Chen
 [Home-based Dry Eye Assessment via Blink Kinematics Using mmWave and Clinical Knowledge Distillation](https://dl.acm.org/doi/abs/10.1145/3680207.3765268)
 
 **Meng Xue**, Wentao Xie, Zuohuizi Yi, Zhilong Zhang, Shumao Wu, Yinan Zhu, Qian Zhang, Changzheng Chen
-- In this work, we present Blinic, a contactless system leveraging commercial millimeter-wave (mmWave) radar to predict precise TBUT values and assess DED severity grades at home. .
+- In this work, we present Blinic, a contactless system leveraging commercial millimeter-wave (mmWave) radar to predict precise TBUT values and assess DED severity grades at home.
 </div>
 </div>
 
