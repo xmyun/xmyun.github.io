@@ -28,6 +28,8 @@ Welcome! I am currently a tenure-track professor in the School of Computer Scien
 
 My research interests include mobile and ubiquitous computing, smart healthcare, and IoT/AI security. 
 
+薛梦，山东大学计算机科学与技术学院研究员，山东大学齐鲁青年学者。于2022年在武汉大学取得博士学位，随后于2022年至2026年在香港科技大学从事博士后研究。研究方向为普适计算，重点关注利用物联网传感器构建具有隐私保护功能的感知系统，以增强医疗健康应用。在相关领域已发表IEEE期刊及CCF A类会议论文15篇以上，获得国家发明专利授权2项。受邀担任WWW‘26会议程序委员会委员，以及IMWUT/UbiComp’24，IMWUT/UbiComp’25、ACM Health、TDSC、TIFS、Neural Networks、IST、Network等知名会议/期刊的审稿人。
+
 
 # 🔥 News 
 - *2026.01*: &nbsp; Made it to Qingdao! Officially starting at SDU! 
