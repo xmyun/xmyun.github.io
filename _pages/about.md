@@ -24,6 +24,8 @@ redirect_from:
 <span style="color: red; font-size: 24px; font-weight: bold;">NEWS:</span> 
 <span style="color: red; font-weight: bold;">We have multiple openings for PhD and Master's students! Please feel free to reach out via email at xuemeng@sdu.edu.cn or xuem.yun@gmail.com.</span>
 
+<span style="color: red; font-weight: bold;">课题组招收2026年秋季入学博士研究生，2026年秋季硕士研究生，欢迎本科生提前进组学习！</span>
+
 Welcome! I am currently a tenure-track professor in the School of Computer Science and Technology at <a href='https://www.en.sdu.edu.cn/'>Shandong University</a>, working with <a href='https://scholar.google.com/citations?user=O1yGhH0AAAAJ&hl=en'>Prof. Xiuzhen Cheng</a>. Prior to SDU, I was a Post-doctoral Fellow at <a href='https://hkust.edu.hk/'>the Hong Kong University of Science and Technology (HKUST)</a>, under the guidance of <a href='https://scholar.google.com/citations?user=XTlaQMkAAAAJ&hl=zh-CN'>Prof. Qian Zhang</a>. Prior to HKUST, I received my Ph.D. in Computer Science from <a href='https://www.whu.edu.cn/'>Wuhan University (WHU)</a> in 2022, under the supervision of <a href='https://scholar.google.com/citations?user=ax6CbMgAAAAJ'>Prof. Yanjiao Chen</a>. I also obtained my master's degree from WHU. Additionally, I spent my senior year as a visiting student at the <a href='https://usslab.org/'> USSLAb</a> of <a href='https://www.zju.edu.cn/'>Zhejiang University (ZJU)</a>. 
 
 My research interests include mobile and ubiquitous computing, smart healthcare, and IoT/AI security. 
