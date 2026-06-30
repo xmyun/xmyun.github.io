@@ -158,11 +158,11 @@ Yanjiao Chen, **Meng Xue**, Jian Zhang, Qianyun Guan, Zhiyuan Wang, Qian Zhang, 
 
 # Teaching
 Course Instructor
-- Computer Networking, 2026, Fall
+- Computer Networks, 2026, Fall
   
 Teaching Assistant
 - Operating Systems, at Zhejiang University.
-- Computer Networking, at Wuhan University, 2019.09 - 2020.01
+- Computer Networks, at Wuhan University, 2019.09 - 2020.01
 
 # 🎖 Honors and Awards
 - *2025.12* HKUST Research Travel Grant, HKUST. 
