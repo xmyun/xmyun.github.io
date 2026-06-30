@@ -152,7 +152,17 @@ Yanjiao Chen, **Meng Xue**, Jian Zhang, Qianyun Guan, Zhiyuan Wang, Qian Zhang, 
 
 [Kaleidoscope: Physical Backdoor Attacks against Deep Neural Networks with RGB Filters](https://ieeexplore.ieee.org/abstract/document/10024758). Xueluan Gong, Ziyao Wang, Yanjiao Chen, **Meng Xue**, Qian Wang, Yuzhe Gu. *IEEE TDSC*, 2023.
 
+# Grants
+- PI, NSF of Shandong, Youth Fund (Category C), 2026
+- Co-PI, NSF of Shandong (山东省重大基础研究), 2026
 
+# Teaching
+Course Instructor
+- Computer Networking, 2026, Fall
+  
+Teaching Assistant
+- Operating Systems, at Zhejiang University.
+- Computer Networking, at Wuhan University, 2019.09 - 2020.01
 
 # 🎖 Honors and Awards
 - *2025.12* HKUST Research Travel Grant, HKUST. 
@@ -174,9 +184,8 @@ Yanjiao Chen, **Meng Xue**, Jian Zhang, Qianyun Guan, Zhiyuan Wang, Qian Zhang, 
 - Reviewer of Neural Networks.
 - Reviewer of Journal of Information Security and Applications. 
 - Reviewer of IEEE network.
-- Teaching Assistant of Operating Systems, at Zhejiang University.
-- Teaching Assistant of Computer Networking, at Wuhan University, 2019.09 - 2020.01
-
+- Teaching Assistant of 
+- Teaching Assistant of 
 # 💻 Internships
 - *2018.06 - 2018.09*, [Huawei](https://github.com/), China.
 
