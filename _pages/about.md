@@ -34,6 +34,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 
 
 # 🔥 News 
+- *2026.06*: &nbsp;🎉🎉 One paper is accepted by ACM MobiCom 2026! 
 - *2026.01*: &nbsp; Made it to Qingdao! Officially starting at SDU! 
 - *2025.11*: &nbsp; Invited to serve on the TPC for ACM WWW 2026. 
 - *2025.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TDSC 2025! 
