@@ -184,8 +184,6 @@ Teaching Assistant
 - Reviewer of Neural Networks.
 - Reviewer of Journal of Information Security and Applications. 
 - Reviewer of IEEE network.
-- Teaching Assistant of 
-- Teaching Assistant of 
 # 💻 Internships
 - *2018.06 - 2018.09*, [Huawei](https://github.com/), China.
 
