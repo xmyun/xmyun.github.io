@@ -34,6 +34,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 
 
 # 🔥 News 
+- *2026.08*: &nbsp;🎉🎉 One paper is accepted by IEEE TMC 2026! 
 - *2026.07*: &nbsp; Major Basic Research Program granted by Shandong Natural Science Foundation
 - *2026.07*: &nbsp; Youth Fund (Category C) granted by Shandong Natural Science Foundation 
 - *2026.06*: &nbsp;🎉🎉 One paper is accepted by ACM MobiCom 2026! 
