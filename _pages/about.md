@@ -180,7 +180,8 @@ Teaching Assistant
 - *2017.09 - 2022.06*, Wuhan University. 
 
 # 💬 Services
-- Technical Program Committee: ACM WWW 2026. 
+- Technical Program Committee: ACM WWW 2026.
+- Technical Program Committee: IEEE PIC 2026.
 - Reviewer of IMWUT/Ubicomp.
 - Reviewer of ACM Transactions on Computing for Healthcare.
 - Reviewer of IEEE Transactions on Information Forensics and Security.
