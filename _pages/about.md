@@ -50,6 +50,16 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by ACM Ubicomp 2024! 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">MobiCom 2026</div><img src='images/TulipTender.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TulipTender: A Mobile 3D Parkinson’s Disease Assessment System Using a Single Camera](https://dl.acm.org/doi/abs/10.1145/3795866.3844160)
+
+**Meng Xue**, Yizhen Zhang, HY Wong, Yanni Yang,GHF Chan, YF Cheung, Nancy Y Ip, and Qian Zhang
+- In this work, we present TulipTender, a mobile 3D Parkinson’s Disease assessment system using a single camera.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">TDSC 2026</div><img src='images/Megatron.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
