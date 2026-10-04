@@ -57,7 +57,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 [TulipTender: A Mobile 3D Parkinson’s Disease Assessment System Using a Single Camera](https://dl.acm.org/doi/abs/10.1145/3795866.3844160)
 
 **Meng Xue**, Yizhen Zhang, HY Wong, Yanni Yang,GHF Chan, YF Cheung, Nancy Y Ip, and Qian Zhang
-- [**Teaser**](https://youtu.be/NZRGu1sd-us)
+- [**Teaser video**](https://youtu.be/NZRGu1sd-us)  [**Dataset**](https://zenodo.org/records/17964593) 
 - In this work, we present TulipTender, a mobile 3D Parkinson’s Disease assessment system using a single camera.
 </div>
 </div>
