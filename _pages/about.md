@@ -34,23 +34,34 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 
 
 # 🔥 News 
-- *2026.09*: &nbsp; 🎉🎉 One paper is accepted by UbiComp/IMWUT 2027! 
+- *2026.09*: &nbsp; 🎉🎉 One paper is accepted by UbiComp/IMWUT 2027 (CCF A)! 
 - *2026.08*: &nbsp; Invited to serve on the TPC for IEEE PIC 2026. 
-- *2026.08*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2026! 
-- *2026.08*: &nbsp;🎉🎉 One paper is accepted by IEEE TMC 2026! 
+- *2026.08*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2026 (CCF B, main conference)! 
+- *2026.08*: &nbsp;🎉🎉 One paper is accepted by IEEE TMC 2026 (CCF A)! 
 - *2026.07*: &nbsp; Major Basic Research Program granted by Shandong Natural Science Foundation
 - *2026.07*: &nbsp; Youth Fund (Category C) granted by Shandong Natural Science Foundation 
-- *2026.06*: &nbsp;🎉🎉 One paper is accepted by ACM MobiCom 2026! 
+- *2026.06*: &nbsp;🎉🎉 One paper is accepted by ACM MobiCom 2026 (CCF A)! 
 - *2026.01*: &nbsp; Made it to Qingdao! Officially starting at SDU! 
 - *2025.11*: &nbsp; Invited to serve on the TPC for ACM WWW 2026. 
-- *2025.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TDSC 2025! 
+- *2025.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TDSC 2025 (CCF A)! 
 - *2025.09*: &nbsp;🎉🎉 Starting January 2026, I will be joining the School of Computer Science and Technology at Shandong University as a Tenure-Track Professor.
 - *2025.08*: &nbsp;🎉🎉 ACM MobiCom 2025 has accepted two of our papers! 
-- *2025.03*: &nbsp;🎉🎉 One paper is accepted by ACM Ubicomp/IMWUT 2025! 
-- *2024.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TDSC 2024! 
-- *2023.10*: &nbsp;🎉🎉 One paper is accepted by ACM Ubicomp 2024! 
+- *2025.03*: &nbsp;🎉🎉 One paper is accepted by ACM Ubicomp/IMWUT 2025 (CCF A)! 
+- *2024.09*: &nbsp;🎉🎉 One paper is accepted by IEEE TDSC 2024 (CCF A)! 
+- *2023.10*: &nbsp;🎉🎉 One paper is accepted by ACM Ubicomp 2024 (CCF A)! 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">UbiComp/IMWUT 2027</div><img src='images/TulipTender.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EEG-LLaVA: A Low-Cost Wearable SSVEP-EEG System with LLM-Driven Interpretable Glaucoma Screening](https://dl.acm.org/doi/abs/10.1145/3795866.3844160)
+
+**Meng Xue**, Abdulla Sawut, Pengfei Hu, Yizhen Zhang, Yanni Yang, Changzheng Chen, Qian Zhang, Xiuzhen Cheng
+- [**Teaser video**](https:)  [**Dataset**](https://zenodo.org/records/19689189) [**Code**]( https://github.com/eeg-llava/EEG-LLaVA) 
+- In this work, We present EEG-LLaVA, a multimodal system that combines this wearable front-end with EEG encoders, MLP projectors and a Qwen3-0.6B decoder, for glaucoma screening.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image' style="text-align: center;"><div><div class="badge">MobiCom 2026</div><img src='images/TulipTender.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
