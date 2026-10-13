@@ -57,7 +57,7 @@ My research interests include mobile and ubiquitous computing, smart healthcare,
 [EEG-LLaVA: A Low-Cost Wearable SSVEP-EEG System with LLM-Driven Interpretable Glaucoma Screening](https://dl.acm.org/doi/abs/10.1145/3795866.3844160)
 
 **Meng Xue**, Abdulla Sawut, Pengfei Hu, Yizhen Zhang, Yanni Yang, Changzheng Chen, Qian Zhang, Xiuzhen Cheng
-- [**Teaser video**](https:)  [**Dataset**](https://zenodo.org/records/19689189) [**Code**]( https://github.com/eeg-llava/EEG-LLaVA) 
+- [**Teaser video**](https://www.youtube.com/watch?v=TDs3lccerdM)  [**Dataset**](https://zenodo.org/records/19689189) [**Code**]( https://github.com/eeg-llava/EEG-LLaVA) 
 - In this work, We present EEG-LLaVA, a multimodal system that combines this wearable front-end with EEG encoders, MLP projectors and a Qwen3-0.6B decoder, for glaucoma screening.
 </div>
 </div>
